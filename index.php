@@ -6,23 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Homepage</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap/fonts/font-awesome.min.css">
+    <script type="text/javascript" src="bootstrap/js/jquery-latest.js"></script>
+    <script type="text/javascript">
+        function tampil(){
+            $("#el").show(2000);
+        }
+    </script>
     <style>
-        .navbar {
-  background: #5A8D99 !important;
-  border: 0 !important;
-
-}
-
-.navbar .active a{
-  background: #3B3B3D !important;
-}
-.navbar a{
-  color: white !important;
-}
+        
     </style>
 </head>
-<body>
-    <div id="topheader">
+<body background="foto/Vintage Background 1.jpg">
+    
     <nav class="navbar navbar-default" role="navigation">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -44,7 +40,7 @@
             </div>
         </div>
     </nav>
-    </div>
+    
     <?php
         include "content.php";
     ?>

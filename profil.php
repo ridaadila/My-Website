@@ -39,32 +39,37 @@
 
               <button class="btn btn-primary" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="name birth address hobbies food">Show All</button>
             </center>
-
+          <center>
           <div class="collapse multi-collapse" id="name">
-            <div class="card card-body">
+            <h5><b>NAME</b></h5>
+            <div class="card card-body" style="font-family: Verdana;">
               Hey guys, My name is Rida Adila. You can call me Rida
             </div>
-          </div>
-          <div class="collapse multi-collapse" id="birth">
-            <div class="card card-body">
-              Place & Date of Birth : 10th June, Surabaya
+          </div> <br>
+          <div class="collapse multi-collapse" id="birth" style="font-family: Verdana;">
+            <h5><b>PLACE & DATE OF BIRTH</b></h5>
+            <div class="card card-body" style="font-family: Verdana;">
+              10th June, Surabaya
             </div>
-          </div>
-          <div class="collapse multi-collapse" id="address">
+          </div> <br>
+          <div class="collapse multi-collapse" id="address" style="font-family: Verdana;">
+            <h5><b>ADDRESS</b></h5>
             <div class="card card-body">
-              Address : Griya Babatan Mukti i-37 B, Wiyung, Surabaya
+              Griya Babatan Mukti i-37 B, Wiyung, Surabaya
             </div>
-          </div>
-          <div class="collapse multi-collapse" id="hobbies">
+          </div> <br>
+          <div class="collapse multi-collapse" id="hobbies" style="font-family: Verdana;">
+            <h5><b>HOBBIES</b></h5>
             <div class="card card-body">
-               Hobbies : Watching film/drama, travelling
+               Watching film/drama, travelling
             </div>
-          </div>
-          <div class="collapse multi-collapse" id="food">
+          </div> <br>
+          <div class="collapse multi-collapse" id="food" style="font-family: Verdana;">
+            <h5><b>Favourite Food</b></h5>
             <div class="card card-body">
-              Favourite food : Pangsit, Sop Betawi
+              Pangsit, Sop Betawi, Bakso, Rawon, Krengsengan
             </div>
-          </div>
+          </div> </center>
           </div>
         </div>
       </div>
@@ -135,7 +140,7 @@
                 </li>
                 <li class="list-group-item">
                   <h5>DqLab</h5>
-                  <p class="text-muted"> Introduction to Data Science with Python
+                  <p class="text-muted"> Introduction to Data Science with Python by DqLab
                     <br> Oct 2020
                   </p>
                 </li>

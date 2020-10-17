@@ -24,21 +24,30 @@
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="index.php?module=homepage">Homepage <span class="sr-only">(current)</span></a></li>
-                    <li><a class="navbar-link" href="index.php?module=profil">Profil</a></li>
-                    <li><a class="navbar-link" href="index.php?module=hometown">Hometown</a></li>
-                    <li><a class="navbar-link" href="index.php?module=food">Local Food</a></li>
-                    <li><a class="navbar-link" href="index.php?module=tourist">Tourist Places</a></li>
+                    <li class="active"><a href="#">Homepage <span class="sr-only">(current)</span></a></li>
+                    <li><a class="navbar-link" href="http://localhost/ridaadila/quiz1/profil.php">Profil</a></li>
+                    <li><a class="navbar-link" href="http://localhost/ridaadila/quiz1/hometown.php">Hometown</a></li>
+                    <li><a class="navbar-link" href="http://localhost/ridaadila/quiz1/food.php">Local Food</a></li>
+                    <li><a class="navbar-link" href="http://localhost/ridaadila/quiz1/tourist.php">Tourist Places</a></li>
                 </ul>
             </div>
         </div>
     </nav>
-
-
-    
-    <?php
-        include "content.php";
-    ?>
+    <div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="jumbotron" style="background-color: antiquewhite;">
+                <div>
+                <h1>Hello, welcome to my website!</h1>
+                <p>My name is Rida Adila! I hope this website can
+                    introduce myself and i can tell you my hometown, local food, and tourist places.
+                    Lets check!
+                 </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
     
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="bootstrap/js/jquery-3.5.1.min.js"></script>

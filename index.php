@@ -5,19 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Homepage</title>
+    
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="bootstrap/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="bootstrap/custom.css">
-    <script type="text/javascript" src="bootstrap/js/jquery-latest.js"></script>
     
-    <script type="text/javascript">
-        $(function(){
-            $('.nav a').filter(function(){return this.href==location.href}).parent().addClass('active').siblings().removeClass('active')
-            $('.nav a').click(function(){
-                $(this).parent().addClass('active').siblings().removeClass('active')	
-            })
-        })
-    </script>
 </head>
 <body background="foto/Vintage Background 1.jpg">
     <nav class="navbar navbar-default" role="navigation" style="background-color: blanchedalmond;">
@@ -42,10 +34,12 @@
         </div>
     </nav>
 
+
     
     <?php
         include "content.php";
     ?>
+    
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="bootstrap/js/jquery-3.5.1.min.js"></script>
     <script src="bootstrap/js/jQuery.js"></script>

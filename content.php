@@ -3,7 +3,7 @@ if(isset($_GET['module'])) {
     $modul = $_GET['module'];
 
     if($modul=="homepage") {
-        include "jumbotron.php";
+        include "homepage.php";
     }
     elseif($modul=="profil") {
         include "profil.php";
@@ -19,6 +19,6 @@ if(isset($_GET['module'])) {
     }
 }
 else {
-    include "jumbotron.php";
+    include "homepage.php";
 }
 ?>

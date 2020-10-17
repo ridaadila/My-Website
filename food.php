@@ -39,7 +39,7 @@
                                     <div class="col-md-offset-1 col-md-4">
                                         <div class="card-content">
                                             <div class="card-img">
-                                                <img src="foto/rujak.jpg" alt="soto">
+                                                <img src="foto/rujak.jpg" alt="rujak">
                                             </div>
                                             <div class="card-desc">
                                                 <h3>Rujak Cingur</h3>
@@ -50,7 +50,7 @@
                                     <div class="col-md-offset-1 col-md-4">
                                         <div class="card-content">
                                             <div class="card-img">
-                                                <img src="foto/sateklopo.jpg" alt="rawon">
+                                                <img src="foto/sateklopo.jpg" alt="sateklopo">
                                             </div>
                                             <div class="card-desc">
                                                 <h3>Sate Klopo</h3>
@@ -66,7 +66,7 @@
                                     <div class="col-md-offset-1 col-md-4">
                                         <div class="card-content">
                                             <div class="card-img">
-                                                <img src="foto/lontongbalap.jpg" alt="soto">
+                                                <img src="foto/lontongbalap.jpg" alt="lontongbalap">
                                             </div>
                                             <div class="card-desc">
                                                 <h3>Lontong Balap</h3>
@@ -77,7 +77,7 @@
                                     <div class="col-md-offset-1 col-md-4">
                                         <div class="card-content">
                                             <div class="card-img">
-                                                <img src="foto/tahucampur.jpg" alt="rawon">
+                                                <img src="foto/tahucampur.jpg" alt="tahucampur">
                                             </div>
                                             <div class="card-desc">
                                                 <h3>Tahu Campur</h3>
@@ -93,7 +93,7 @@
                                     <div class="col-md-offset-1 col-md-4">
                                         <div class="card-content">
                                             <div class="card-img">
-                                                <img src="foto/bebek.jpg" alt="soto">
+                                                <img src="foto/bebek.jpg" alt="bebek">
                                             </div>
                                             <div class="card-desc">
                                                 <h3>Nasi Bebek</h3>
@@ -104,7 +104,7 @@
                                     <div class="col-md-offset-1 col-md-4">
                                         <div class="card-content">
                                             <div class="card-img">
-                                                <img src="foto/krawu.jpg" alt="rawon">
+                                                <img src="foto/krawu.jpg" alt="krawu">
                                             </div>
                                             <div class="card-desc">
                                                 <h3>Nasi Krawu</h3>
@@ -120,7 +120,7 @@
                                     <div class="col-md-offset-1 col-md-4">
                                         <div class="card-content">
                                             <div class="card-img">
-                                                <img src="foto/tahutek.jpg" alt="soto">
+                                                <img src="foto/tahutek.jpg" alt="tahutek">
                                             </div>
                                             <div class="card-desc">
                                                 <h3>Tahu Tek</h3>
@@ -131,7 +131,7 @@
                                     <div class="col-md-offset-1 col-md-4">
                                         <div class="card-content">
                                             <div class="card-img">
-                                                <img src="foto/sopkaki.jpg" alt="rawon">
+                                                <img src="foto/sopkaki.jpg" alt="sopkaki">
                                             </div>
                                             <div class="card-desc">
                                                 <h3>Sop Kaki Kambing Sapi</h3>

@@ -7,7 +7,7 @@
     <title>Homepage</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="bootstrap/fonts/font-awesome.min.css">
-    <link rel="stylesheet" href="custom.css">
+    <link rel="stylesheet" href="bootstrap/custom.css">
     <script type="text/javascript" src="bootstrap/js/jquery-latest.js"></script>
     <script type="text/javascript">
         function tampil(){

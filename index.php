@@ -25,10 +25,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active"><a href="#">Homepage <span class="sr-only">(current)</span></a></li>
-                    <li><a class="navbar-link" href="http://localhost/ridaadila/quiz1/profil.php">Profil</a></li>
-                    <li><a class="navbar-link" href="http://localhost/ridaadila/quiz1/hometown.php">Hometown</a></li>
-                    <li><a class="navbar-link" href="http://localhost/ridaadila/quiz1/food.php">Local Food</a></li>
-                    <li><a class="navbar-link" href="http://localhost/ridaadila/quiz1/tourist.php">Tourist Places</a></li>
+                    <li><a class="navbar-link" href="https://ridaadila.000webhostapp.com/quiz1/profil.php">Profil</a></li>
+                    <li><a class="navbar-link" href="https://ridaadila.000webhostapp.com/quiz1/hometown.php">Hometown</a></li>
+                    <li><a class="navbar-link" href="https://ridaadila.000webhostapp.com/quiz1/food.php">Local Food</a></li>
+                    <li><a class="navbar-link" href="https://ridaadila.000webhostapp.com/quiz1/tourist.php">Tourist Places</a></li>
                 </ul>
             </div>
         </div>

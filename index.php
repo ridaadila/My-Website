@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="bootstrap/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="bootstrap/custom.css">
-    
+   
 </head>
 <body background="foto/Vintage Background 1.jpg">
     <nav class="navbar navbar-default" role="navigation" style="background-color: blanchedalmond;">

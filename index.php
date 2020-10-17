@@ -9,18 +9,18 @@
     <link rel="stylesheet" href="bootstrap/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="bootstrap/custom.css">
     <script type="text/javascript" src="bootstrap/js/jquery-latest.js"></script>
+    
     <script type="text/javascript">
-        function tampil(){
-            $("#el").show(2000);
-        }
+        $(function(){
+            $('.nav a').filter(function(){return this.href==location.href}).parent().addClass('active').siblings().removeClass('active')
+            $('.nav a').click(function(){
+                $(this).parent().addClass('active').siblings().removeClass('active')	
+            })
+        })
     </script>
-    <style>
-        
-    </style>
 </head>
 <body background="foto/Vintage Background 1.jpg">
-    
-    <nav class="navbar navbar-default" role="navigation">
+    <nav class="navbar navbar-default" role="navigation" style="background-color: blanchedalmond;">
         <div class="container-fluid">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle colapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -41,11 +41,13 @@
             </div>
         </div>
     </nav>
+
     
     <?php
         include "content.php";
     ?>
-    
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/js/jquery-3.5.1.min.js"></script>
     <script src="bootstrap/js/jQuery.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
 </body>

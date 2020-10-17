@@ -14,6 +14,13 @@
                             <li data-target="#slideshowku" data-slide-to="0" class="active"></li>
                             <li data-target="#slideshowku" data-slide-to="1"></li>
                             <li data-target="#slideshowku" data-slide-to="2"></li>
+                            <li data-target="#slideshowku" data-slide-to="3"></li>
+                            <li data-target="#slideshowku" data-slide-to="4"></li>
+                            <li data-target="#slideshowku" data-slide-to="5"></li>
+                            <li data-target="#slideshowku" data-slide-to="6"></li>
+                            <li data-target="#slideshowku" data-slide-to="7"></li>
+                            <li data-target="#slideshowku" data-slide-to="8"></li>
+                            <li data-target="#slideshowku" data-slide-to="9"></li>
                         </ol>
                         <div class="carousel-inner">
                             <div class="item active">
@@ -24,6 +31,27 @@
                             </div>
                             <div class="item">
                                 <img src="foto/sby3.jpg" alt="slideshowku" width="100%">
+                            </div>
+                            <div class="item">
+                                <img src="foto/sby4.jpg" alt="slideshowku" width="100%">
+                            </div>
+                            <div class="item">
+                                <img src="foto/sby5.jpg" alt="slideshowku" width="100%">
+                            </div>
+                            <div class="item">
+                                <img src="foto/sby6.jpg" alt="slideshowku" width="100%">
+                            </div>
+                            <div class="item">
+                                <img src="foto/sby7.jpg" alt="slideshowku" width="100%">
+                            </div>
+                            <div class="item">
+                                <img src="foto/sby8.jpg" alt="slideshowku" width="100%">
+                            </div>
+                            <div class="item">
+                                <img src="foto/sby9.jpg" alt="slideshowku" width="100%">
+                            </div>
+                            <div class="item">
+                                <img src="foto/sby10.jpg" alt="slideshowku" width="100%">
                             </div>
                         </div>
                         <a href="#slideshowku" class="left carousel-control" data-slide="prev">
